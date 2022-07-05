@@ -16,7 +16,7 @@ PS와 CS 그리고 Back-End 기반지식을 총 4명의 스터디원들과 학�
 <br>발표 과목은 매 주 돌아가면서 진행한다. 내가 발표하지 않는 과목들은 질문 5개씩을 준비해온다.
 
     - 운영체제 커리큘럼
-      - 프로세스와 스레드
+      - [프로세스와 스레드](https://github.com/crakel/TIL-MGS/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
       - 프로세스 주소 공간
       - 인터럽트
       - 시스템 콜
@@ -32,7 +32,7 @@ PS와 CS 그리고 Back-End 기반지식을 총 4명의 스터디원들과 학�
       - 파일 시스템
     
     - 컴퓨터 네트워크 커리큘럼
-      - OSI 7 계층
+      - [OSI 7 계층](github.com/crakel/TIL-MGS/blob/main/네트워크/OSI%207%20계층.md)
       - TCP 3 & 4 way handshake
       - TCP/IP 흐름제어 & 혼잡제어
       - UDP
@@ -43,7 +43,7 @@ PS와 CS 그리고 Back-End 기반지식을 총 4명의 스터디원들과 학�
       - 블로킹/논블로킹 & 동기&비동기
     
     - 데이터베이스 커리큘럼
-      - 키
+      - [키](github.com/crakel/TIL-MGS/blob/main/데이터베이스/키.md)
       - 조인
       - SQL Injection
       - SQL vs NoSQL
@@ -56,8 +56,7 @@ PS와 CS 그리고 Back-End 기반지식을 총 4명의 스터디원들과 학�
       - 저장 프로시저
     
     - WEB 커리큘럼
-      - 브라우저 동작 방법
-      - 쿠키 & 세션
+      - [브라우저 동작 방법](github.com/crakel/TIL-MGS/blob/main/웹/브라우저%20동작%20방법.md)
       - HTTP status code
       - REST API
       - Web Server와 WAS
