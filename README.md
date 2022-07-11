@@ -57,7 +57,8 @@ PS와 CS 그리고 Back-End 기반지식을 총 4명의 스터디원들과 학�
     
     - WEB 커리큘럼
       - [브라우저 동작 방법](웹/브라우저%20동작%20방법.md)
-      - [HTTP status code](웹/쿠키&세션.md)
+      - [쿠키&세선](웹/쿠키&세션.md)
+      - [HTTP status code]
       - [REST API]
       - [Web Server와 WAS]
       - [OAuth]
