@@ -18,7 +18,7 @@ PS와 CS 그리고 Back-End 기반지식을 총 4명의 스터디원들과 학�
     - 운영체제 커리큘럼
       - [프로세스와 스레드](운영체제/프로세스와%20스레드.md)
       - [프로세스 주소 공간](운영체제/프로세스%20주소%20공간.md)
-      - [인터럽트]
+      - [인터럽트](운영체제/프로세스와%20스레드.md)
       - [시스템 콜]
       - [PCB와 Context Switching]
       - [IPC]
@@ -34,7 +34,7 @@ PS와 CS 그리고 Back-End 기반지식을 총 4명의 스터디원들과 학�
     - 컴퓨터 네트워크 커리큘럼
       - [OSI 7 계층](네트워크/OSI%207%20계층.md)
       - [TCP 3 & 4 way handshake](네트워크/TCP%20handshake.md)
-      - [TCP/IP 흐름제어 & 혼잡제어]
+      - [TCP/IP 흐름제어 & 혼잡제어](네트워크/TCP%20IP%20흐름제어&혼잡제어.md)
       - [UDP]
       - [대칭키 & 공개키]
       - [HTTP & HTTPS]
@@ -45,7 +45,7 @@ PS와 CS 그리고 Back-End 기반지식을 총 4명의 스터디원들과 학�
     - 데이터베이스 커리큘럼
       - [키](데이터베이스/키.md)
       - [조인](데이터베이스/조인.md)
-      - [SQL Injection]
+      - [SQL Injection](데이터베이스/SQL%20Injection.md)
       - [SQL vs NoSQL]
       - [이상]
       - [인덱스]
@@ -59,7 +59,7 @@ PS와 CS 그리고 Back-End 기반지식을 총 4명의 스터디원들과 학�
       - [브라우저 동작 방법](웹/브라우저%20동작%20방법.md)
       - [쿠키&세선](웹/쿠키&세션.md)
       - [HTTP status code]
-      - [REST API]
+      - [REST API](웹/REST%20API.md)
       - [Web Server와 WAS]
       - [OAuth]
       - [JWT (JSON Web Token)]
