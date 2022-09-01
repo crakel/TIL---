@@ -20,14 +20,11 @@ PS와 CS 그리고 Back-End 기반지식을 총 4명의 스터디원들과 학�
       - [프로세스 주소 공간](운영체제/프로세스%20주소%20공간.md)
       - [인터럽트](운영체제/프로세스와%20스레드.md)
       - [시스템 콜](운영체제/시스템%20콜.md)
-      - [PCB와 Context Switching]
-      - [IPC]
+      - [PCB와 Context Switching](운영체제/PCB와%20ContextSwitching.md)
+      - [IPC](운영체제/IPC.md)
       - [CPU 스케줄링]
-      - [데드락]
-      - [Race Conditon]
-      - [세마포어 뮤텍스]
-      - [페이징, 세그멘테이션]
-      - [페이징 교체 알고리즘]
+      - [데드락/세마포어 뮤텍스]
+      - [페이징, 세그멘테이션](운영체제/페이징과%20세그멘테이션.md)
       - [메모리]
       - [파일 시스템]
     
@@ -35,18 +32,18 @@ PS와 CS 그리고 Back-End 기반지식을 총 4명의 스터디원들과 학�
       - [OSI 7 계층](네트워크/OSI%207%20계층.md)
       - [TCP 3 & 4 way handshake](네트워크/TCP%20handshake.md)
       - [TCP/IP 흐름제어 & 혼잡제어](네트워크/TCP%20IP%20흐름제어&혼잡제어.md)
-      - [UDP]
+      - [UDP](네트워크/UDP.md)
       - [대칭키 & 공개키](네트워크/대칭키&공개키.md)
       - [HTTP & HTTPS]
       - [TLS/SSL HandShake]
       - [로드밸런싱]
-      - [블로킹/논블로킹 & 동기&비동기]
+      - [블로킹/논블로킹 & 동기&비동기](네트워크/블로킹과%20동기.md)
     
     - 데이터베이스 커리큘럼
       - [키](데이터베이스/키.md)
       - [조인](데이터베이스/조인.md)
       - [SQL Injection](데이터베이스/SQL%20Injection.md)
-      - [SQL vs NoSQL]
+      - [SQL vs NoSQL](데이터베이스/SQL%20vs%20NoSQL.md)
       - [이상]
       - [인덱스]
       - [정규화]
@@ -60,16 +57,6 @@ PS와 CS 그리고 Back-End 기반지식을 총 4명의 스터디원들과 학�
       - [쿠키&세선](웹/쿠키&세션.md)
       - [HTTP status code]
       - [REST API](웹/REST%20API.md)
-      - [Web Server와 WAS]
-      - [OAuth]
-      - [JWT (JSON Web Token)]
-      - [인증 방식]
-      - [로깅 레벨 ( Logging Level )]
-      - [UI & UX]
-      - [CSR & SSR]
-      - [네이티브 앱 & 웹 앱 & 하이브리드 앱]
-      - [PWA ( Progressive Web App )]
-      - [CSRF & XSS]
 
 1. JAVA
     - OOP
